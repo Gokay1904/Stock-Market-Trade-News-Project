@@ -5,5 +5,5 @@ In this application, users can automatically get the last 5 news about the stock
 Users have to use their own API key.
 
 Data Source: 
-- Alphavantage (Financial Data)
-- news (News Data)
+- alphavantage (Financial Data)
+- newsapi.org (News Data)
